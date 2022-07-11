@@ -10,11 +10,13 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600;700&display=swap');
 
 html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /*
